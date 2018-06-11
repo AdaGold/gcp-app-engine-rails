@@ -1,7 +1,7 @@
-require 'test_helper'
+require "test_helper"
 
-class MessagesControllerTest < ActionDispatch::IntegrationTest
-  # test "the truth" do
-  #   assert true
+describe MessagesController do
+  # it "must be a real test" do
+  #   flunk "Need real tests"
   # end
 end
